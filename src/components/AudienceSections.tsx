@@ -86,7 +86,7 @@ export function AudienceSections() {
               <div className="absolute inset-0 bg-gradient-to-tr from-accent/20 to-primary/20 rounded-3xl blur-2xl" />
               <div className="relative rounded-2xl overflow-hidden">
                 <ImageWithFallback
-                  src="../src/assets/mobile.png"
+                  src="https://media.discordapp.net/attachments/1437571358623137823/1437571604707020923/mobile.png?ex=6913ba63&is=691268e3&hm=37a41e10af73d4a0cdee522d3e9f37ec56dd0a72eeb6741479373f6ff525a131&=&format=webp&quality=lossless&width=1200&height=800"
                   alt="Gamificação em aplicativo mobile"
                   className="w-full h-full object-cover"
                 />
@@ -211,7 +211,7 @@ export function AudienceSections() {
               <div className="absolute inset-0 bg-gradient-to-tr from-primary/20 to-accent/20 rounded-3xl blur-2xl" />
               <div className="relative rounded-2xl overflow-hidden">
                 <ImageWithFallback
-                  src="../src/assets/notebook.png"
+                  src="https://media.discordapp.net/attachments/1437571358623137823/1437571603796987904/notebook.png?ex=6913ba63&is=691268e3&hm=0d716ff4ec25217d0fe26a9fbd727b4070043664b6391012f286b6b353162067&=&format=webp&quality=lossless&width=1200&height=800"
                   alt="Sucesso empresarial e celebração em equipe"
                   className="w-full h-full object-cover"
                 />

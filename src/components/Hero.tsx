@@ -69,7 +69,7 @@ export function Hero() {
             <div className="absolute inset-0 bg-gradient-to-tr from-primary/20 to-accent/20 rounded-3xl blur-2xl" />
             <div className="relative rounded-2xl overflow-hidden">
               <ImageWithFallback
-                src="../src/assets/principal.png"
+                src="https://media.discordapp.net/attachments/1437571358623137823/1437571605676032061/principal.png?ex=6913ba63&is=691268e3&hm=fc6057c9ed5b14ba50f1a72d767461ebfa5ea4c27cddf70c3e06089190a70235&=&format=webp&quality=lossless&width=1200&height=800"
                 alt="Equipe de treinamento corporativo"
                 className="w-full h-full object-cover"
               />

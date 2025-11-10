@@ -1,11 +1,11 @@
 import { Card } from "./ui/card";
 
 const logos = [
-'/src/assets/parceiros/carreiras.png',
-'/src/assets/parceiros/face.png',
-'/src/assets/parceiros/facens.png',
-'/src/assets/parceiros/lince.png',
-'/src/assets/parceiros/unifacens.png'
+'https://media.discordapp.net/attachments/1437571358623137823/1437571714534998066/carreiras.png?ex=6913ba7d&is=691268fd&hm=48e7a3b76b1c32fb587d45c41567dcfd59aeeca17eacfa679be74092ca7b5ea5&=&format=webp&quality=lossless&width=1280&height=480',
+'https://media.discordapp.net/attachments/1437571358623137823/1437571714983919737/face.png?ex=6913ba7d&is=691268fd&hm=5d48215fecb9482e278164ebfa07cb745829f871388914390b7e26d55e4f9a58&=&format=webp&quality=lossless&width=1280&height=480',
+'https://media.discordapp.net/attachments/1437571358623137823/1437571715369668708/facens.png?ex=6913ba7d&is=691268fd&hm=6f1c674588e38bbc05ff0d052ff1735b87ca5344039f461227a2c5a2615ca9af&=&format=webp&quality=lossless&width=1280&height=480',
+'https://media.discordapp.net/attachments/1437571358623137823/1437571713473839196/lince.png?ex=6913ba7d&is=691268fd&hm=6c4c04ff554520c0f7f00316ceffbf85a84df2c9099d45b5b98e3977a27b4b46&=&format=webp&quality=lossless&width=1280&height=480',
+'https://media.discordapp.net/attachments/1437571358623137823/1437571714102853767/unifacens.png?ex=6913ba7d&is=691268fd&hm=bfbb17a77af640202e2aef93a30e9ed2f96d79a1a370bf0d69b090f84a9b5cb2&=&format=webp&quality=lossless&width=1280&height=480'
 ];
 
 const stats = [
